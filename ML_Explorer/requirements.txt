@@ -1,0 +1,25 @@
+# Streamlit app + ML stack
+streamlit>=1.24.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine learning
+scikit-learn>=1.2.2
+scipy>=1.10.0
+
+# Plotting / visualization
+matplotlib>=3.6.0
+seaborn>=0.12.2
+
+# Model persistence
+joblib>=1.2.0
+
+# Excel support
+openpyxl>=3.1.0
+xlrd>=2.0.1
+
+# Utilities (optional but useful)
+pillow>=9.5.0
+python-dateutil>=2.8.2
